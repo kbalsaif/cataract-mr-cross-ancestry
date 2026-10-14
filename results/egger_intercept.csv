@@ -1,0 +1,25 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"ebi-a-GCST006867","bbj-a-94","Cataract || id:bbj-a-94","Type 2 diabetes || id:ebi-a-GCST006867",-0.00792288611101539,0.00381106417973709,0.0400853832359264
+"ieu-b-40","bbj-a-94","Cataract || id:bbj-a-94","body mass index || id:ieu-b-40",-0.00265822550153373,0.00166324083246587,0.11067758839124
+"ieu-b-38","bbj-a-94","Cataract || id:bbj-a-94","systolic blood pressure || id:ieu-b-38",0.00069686231453031,0.00176374480128148,0.692982829440725
+"ieu-b-39","bbj-a-94","Cataract || id:bbj-a-94","diastolic blood pressure || id:ieu-b-39",-0.000834754228772002,0.00172883339063832,0.629478492279174
+"ieu-b-73","bbj-a-94","Cataract || id:bbj-a-94","Alcoholic drinks per week || id:ieu-b-73",0.000435021396562341,0.00300543684210097,0.88598743069663
+"ieu-b-4877","bbj-a-94","Cataract || id:bbj-a-94","smoking initiation || id:ieu-b-4877",-0.0159242194992683,0.00797574809709569,0.0493598632941892
+"ebi-a-GCST006867","ukb-d-20002_1278","Non-cancer illness code, self-reported: cataract || id:ukb-d-20002_1278","Type 2 diabetes || id:ebi-a-GCST006867",-0.000109136164405496,7.44744083544313e-05,0.145583801297365
+"ieu-b-40","ukb-d-20002_1278","Non-cancer illness code, self-reported: cataract || id:ukb-d-20002_1278","body mass index || id:ieu-b-40",-2.04468340650874e-06,3.69016231442463e-05,0.955835555962415
+"ieu-b-38","ukb-d-20002_1278","Non-cancer illness code, self-reported: cataract || id:ukb-d-20002_1278","systolic blood pressure || id:ieu-b-38",1.64944223724257e-05,3.83086087189825e-05,0.666993596961244
+"ieu-b-39","ukb-d-20002_1278","Non-cancer illness code, self-reported: cataract || id:ukb-d-20002_1278","diastolic blood pressure || id:ieu-b-39",3.7295782917428e-05,3.83231662600277e-05,0.330987979457647
+"ieu-b-73","ukb-d-20002_1278","Non-cancer illness code, self-reported: cataract || id:ukb-d-20002_1278","Alcoholic drinks per week || id:ieu-b-73",-0.000112502901232982,9.40365312687955e-05,0.240339776633477
+"ieu-b-4877","ukb-d-20002_1278","Non-cancer illness code, self-reported: cataract || id:ukb-d-20002_1278","smoking initiation || id:ieu-b-4877",0.000105256344389309,0.000169160491475728,0.535497788160338
+"ebi-a-GCST006867","finn-b-H7_CATARACTSENILE","Senile cataract || id:finn-b-H7_CATARACTSENILE","Type 2 diabetes || id:ebi-a-GCST006867",0.00342926912707199,0.00396662448542672,0.38914420984342
+"ieu-b-40","finn-b-H7_CATARACTSENILE","Senile cataract || id:finn-b-H7_CATARACTSENILE","body mass index || id:ieu-b-40",-3.51489989769487e-05,0.00172327137890509,0.983735450775448
+"ieu-b-38","finn-b-H7_CATARACTSENILE","Senile cataract || id:finn-b-H7_CATARACTSENILE","systolic blood pressure || id:ieu-b-38",-0.000489169098040695,0.00172943424392839,0.777427913330429
+"ieu-b-39","finn-b-H7_CATARACTSENILE","Senile cataract || id:finn-b-H7_CATARACTSENILE","diastolic blood pressure || id:ieu-b-39",-0.000766556169781623,0.00175913927109972,0.663230641558658
+"ieu-b-73","finn-b-H7_CATARACTSENILE","Senile cataract || id:finn-b-H7_CATARACTSENILE","Alcoholic drinks per week || id:ieu-b-73",0.00220162760908686,0.0068629485869764,0.750448365856496
+"ieu-b-4877","finn-b-H7_CATARACTSENILE","Senile cataract || id:finn-b-H7_CATARACTSENILE","smoking initiation || id:ieu-b-4877",0.00929867098733993,0.00877497562474769,0.292364015384187
+"ebi-a-GCST006867","ebi-a-GCST90018814","Cataracts || id:ebi-a-GCST90018814","Type 2 diabetes || id:ebi-a-GCST006867",-0.000582930432522163,0.0024593446346003,0.813065220938117
+"ieu-b-40","ebi-a-GCST90018814","Cataracts || id:ebi-a-GCST90018814","body mass index || id:ieu-b-40",-0.000715630152689204,0.00102443403882172,0.48516513636539
+"ieu-b-38","ebi-a-GCST90018814","Cataracts || id:ebi-a-GCST90018814","systolic blood pressure || id:ieu-b-38",0.00145554070274838,0.00111429434466056,0.192158149627576
+"ieu-b-39","ebi-a-GCST90018814","Cataracts || id:ebi-a-GCST90018814","diastolic blood pressure || id:ieu-b-39",0.00127284680578253,0.00109105321374267,0.244000706532055
+"ieu-b-73","ebi-a-GCST90018814","Cataracts || id:ebi-a-GCST90018814","Alcoholic drinks per week || id:ieu-b-73",-0.000863994340294275,0.00263364437460176,0.745002976167567
+"ieu-b-4877","ebi-a-GCST90018814","Cataracts || id:ebi-a-GCST90018814","smoking initiation || id:ieu-b-4877",-0.00102268951114215,0.0045731321289675,0.823594735326776

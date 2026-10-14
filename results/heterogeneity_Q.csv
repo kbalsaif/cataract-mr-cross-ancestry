@@ -1,0 +1,49 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"ebi-a-GCST006867","bbj-a-94","Cataract || id:bbj-a-94","Type 2 diabetes || id:ebi-a-GCST006867","MR Egger",137.606050305127,104,0.0152688671178324
+"ebi-a-GCST006867","bbj-a-94","Cataract || id:bbj-a-94","Type 2 diabetes || id:ebi-a-GCST006867","Inverse variance weighted",143.324502455134,105,0.00770693381037364
+"ieu-b-40","bbj-a-94","Cataract || id:bbj-a-94","body mass index || id:ieu-b-40","MR Egger",590.137824283501,462,4.80641626281847e-05
+"ieu-b-40","bbj-a-94","Cataract || id:bbj-a-94","body mass index || id:ieu-b-40","Inverse variance weighted",593.400582102137,463,3.75095865695128e-05
+"ieu-b-38","bbj-a-94","Cataract || id:bbj-a-94","systolic blood pressure || id:ieu-b-38","MR Egger",496.348386325334,389,0.000181280240600853
+"ieu-b-38","bbj-a-94","Cataract || id:bbj-a-94","systolic blood pressure || id:ieu-b-38","Inverse variance weighted",496.547572631432,390,0.000201882630006793
+"ieu-b-39","bbj-a-94","Cataract || id:bbj-a-94","diastolic blood pressure || id:ieu-b-39","MR Egger",449.186203614008,390,0.0204678918696584
+"ieu-b-39","bbj-a-94","Cataract || id:bbj-a-94","diastolic blood pressure || id:ieu-b-39","Inverse variance weighted",449.454721224377,391,0.0217975726184149
+"ieu-b-73","bbj-a-94","Cataract || id:bbj-a-94","Alcoholic drinks per week || id:ieu-b-73","MR Egger",27.8772870857924,27,0.417321192554941
+"ieu-b-73","bbj-a-94","Cataract || id:bbj-a-94","Alcoholic drinks per week || id:ieu-b-73","Inverse variance weighted",27.898918891233,28,0.469813843939611
+"ieu-b-4877","bbj-a-94","Cataract || id:bbj-a-94","smoking initiation || id:ieu-b-4877","MR Egger",95.6515272499965,78,0.085141297438199
+"ieu-b-4877","bbj-a-94","Cataract || id:bbj-a-94","smoking initiation || id:ieu-b-4877","Inverse variance weighted",100.539972535852,79,0.0514751100933706
+"ebi-a-GCST006867","ukb-d-20002_1278","Non-cancer illness code, self-reported: cataract || id:ukb-d-20002_1278","Type 2 diabetes || id:ebi-a-GCST006867","MR Egger",140.596070608056,113,0.0402326605683205
+"ebi-a-GCST006867","ukb-d-20002_1278","Non-cancer illness code, self-reported: cataract || id:ukb-d-20002_1278","Type 2 diabetes || id:ebi-a-GCST006867","Inverse variance weighted",143.267957005754,114,0.0331153262549739
+"ieu-b-40","ukb-d-20002_1278","Non-cancer illness code, self-reported: cataract || id:ukb-d-20002_1278","body mass index || id:ieu-b-40","MR Egger",502.632014605251,482,0.249311055320272
+"ieu-b-40","ukb-d-20002_1278","Non-cancer illness code, self-reported: cataract || id:ukb-d-20002_1278","body mass index || id:ieu-b-40","Inverse variance weighted",502.635216184934,483,0.259538310731412
+"ieu-b-38","ukb-d-20002_1278","Non-cancer illness code, self-reported: cataract || id:ukb-d-20002_1278","systolic blood pressure || id:ieu-b-38","MR Egger",430.671777593272,441,0.628554592378308
+"ieu-b-38","ukb-d-20002_1278","Non-cancer illness code, self-reported: cataract || id:ukb-d-20002_1278","systolic blood pressure || id:ieu-b-38","Inverse variance weighted",430.857165526716,442,0.63889182505374
+"ieu-b-39","ukb-d-20002_1278","Non-cancer illness code, self-reported: cataract || id:ukb-d-20002_1278","diastolic blood pressure || id:ieu-b-39","MR Egger",457.414441578726,444,0.319884268861024
+"ieu-b-39","ukb-d-20002_1278","Non-cancer illness code, self-reported: cataract || id:ukb-d-20002_1278","diastolic blood pressure || id:ieu-b-39","Inverse variance weighted",458.390157950304,445,0.320354307648021
+"ieu-b-73","ukb-d-20002_1278","Non-cancer illness code, self-reported: cataract || id:ukb-d-20002_1278","Alcoholic drinks per week || id:ieu-b-73","MR Egger",30.8022743577693,32,0.527071125864396
+"ieu-b-73","ukb-d-20002_1278","Non-cancer illness code, self-reported: cataract || id:ukb-d-20002_1278","Alcoholic drinks per week || id:ieu-b-73","Inverse variance weighted",32.2335861278376,33,0.505083701235969
+"ieu-b-4877","ukb-d-20002_1278","Non-cancer illness code, self-reported: cataract || id:ukb-d-20002_1278","smoking initiation || id:ieu-b-4877","MR Egger",82.2907059057922,83,0.501356247773668
+"ieu-b-4877","ukb-d-20002_1278","Non-cancer illness code, self-reported: cataract || id:ukb-d-20002_1278","smoking initiation || id:ieu-b-4877","Inverse variance weighted",82.6778732226743,84,0.520342506680708
+"ebi-a-GCST006867","finn-b-H7_CATARACTSENILE","Senile cataract || id:finn-b-H7_CATARACTSENILE","Type 2 diabetes || id:ebi-a-GCST006867","MR Egger",198.331773135828,112,9.3167305903984e-07
+"ebi-a-GCST006867","finn-b-H7_CATARACTSENILE","Senile cataract || id:finn-b-H7_CATARACTSENILE","Type 2 diabetes || id:ebi-a-GCST006867","Inverse variance weighted",199.655307538492,113,9.30067997127758e-07
+"ieu-b-40","finn-b-H7_CATARACTSENILE","Senile cataract || id:finn-b-H7_CATARACTSENILE","body mass index || id:ieu-b-40","MR Egger",605.919500641305,478,6.20296366088365e-05
+"ieu-b-40","finn-b-H7_CATARACTSENILE","Senile cataract || id:finn-b-H7_CATARACTSENILE","body mass index || id:ieu-b-40","Inverse variance weighted",605.920027999386,479,7.03582288900522e-05
+"ieu-b-38","finn-b-H7_CATARACTSENILE","Senile cataract || id:finn-b-H7_CATARACTSENILE","systolic blood pressure || id:ieu-b-38","MR Egger",483.325908292336,432,0.04420122428377
+"ieu-b-38","finn-b-H7_CATARACTSENILE","Senile cataract || id:finn-b-H7_CATARACTSENILE","systolic blood pressure || id:ieu-b-38","Inverse variance weighted",483.415417198217,433,0.0471321699989928
+"ieu-b-39","finn-b-H7_CATARACTSENILE","Senile cataract || id:finn-b-H7_CATARACTSENILE","diastolic blood pressure || id:ieu-b-39","MR Egger",517.079482739187,433,0.0033338890599817
+"ieu-b-39","finn-b-H7_CATARACTSENILE","Senile cataract || id:finn-b-H7_CATARACTSENILE","diastolic blood pressure || id:ieu-b-39","Inverse variance weighted",517.306237768612,434,0.00360631755809656
+"ieu-b-73","finn-b-H7_CATARACTSENILE","Senile cataract || id:finn-b-H7_CATARACTSENILE","Alcoholic drinks per week || id:ieu-b-73","MR Egger",49.0934484517265,32,0.0272042504839863
+"ieu-b-73","finn-b-H7_CATARACTSENILE","Senile cataract || id:finn-b-H7_CATARACTSENILE","Alcoholic drinks per week || id:ieu-b-73","Inverse variance weighted",49.2513330605772,33,0.034227391988848
+"ieu-b-4877","finn-b-H7_CATARACTSENILE","Senile cataract || id:finn-b-H7_CATARACTSENILE","smoking initiation || id:ieu-b-4877","MR Egger",127.233374271426,83,0.00129583203066233
+"ieu-b-4877","finn-b-H7_CATARACTSENILE","Senile cataract || id:finn-b-H7_CATARACTSENILE","smoking initiation || id:ieu-b-4877","Inverse variance weighted",128.954738913281,84,0.00117935194532654
+"ebi-a-GCST006867","ebi-a-GCST90018814","Cataracts || id:ebi-a-GCST90018814","Type 2 diabetes || id:ebi-a-GCST006867","MR Egger",246.738973075598,113,5.76927860130063e-12
+"ebi-a-GCST006867","ebi-a-GCST90018814","Cataracts || id:ebi-a-GCST90018814","Type 2 diabetes || id:ebi-a-GCST006867","Inverse variance weighted",246.861647487068,114,8.31837051726218e-12
+"ieu-b-40","ebi-a-GCST90018814","Cataracts || id:ebi-a-GCST90018814","body mass index || id:ieu-b-40","MR Egger",719.07236610018,479,6.70537798175398e-12
+"ieu-b-40","ebi-a-GCST90018814","Cataracts || id:ebi-a-GCST90018814","body mass index || id:ieu-b-40","Inverse variance weighted",719.804931406856,480,7.28414626680993e-12
+"ieu-b-38","ebi-a-GCST90018814","Cataracts || id:ebi-a-GCST90018814","systolic blood pressure || id:ieu-b-38","MR Egger",677.390468073504,436,9.46748395397481e-13
+"ieu-b-38","ebi-a-GCST90018814","Cataracts || id:ebi-a-GCST90018814","systolic blood pressure || id:ieu-b-38","Inverse variance weighted",680.041417534928,437,7.31610983804461e-13
+"ieu-b-39","ebi-a-GCST90018814","Cataracts || id:ebi-a-GCST90018814","diastolic blood pressure || id:ieu-b-39","MR Egger",652.227255056803,436,7.98720433834701e-11
+"ieu-b-39","ebi-a-GCST90018814","Cataracts || id:ebi-a-GCST90018814","diastolic blood pressure || id:ieu-b-39","Inverse variance weighted",654.263232031016,437,6.94612430853465e-11
+"ieu-b-73","ebi-a-GCST90018814","Cataracts || id:ebi-a-GCST90018814","Alcoholic drinks per week || id:ieu-b-73","MR Egger",74.1114266367918,32,3.44310055773861e-05
+"ieu-b-73","ebi-a-GCST90018814","Cataracts || id:ebi-a-GCST90018814","Alcoholic drinks per week || id:ieu-b-73","Inverse variance weighted",74.3606809763406,33,5.00442322532375e-05
+"ieu-b-4877","ebi-a-GCST90018814","Cataracts || id:ebi-a-GCST90018814","smoking initiation || id:ieu-b-4877","MR Egger",110.139441562246,83,0.0248154296016451
+"ieu-b-4877","ebi-a-GCST90018814","Cataracts || id:ebi-a-GCST90018814","smoking initiation || id:ieu-b-4877","Inverse variance weighted",110.205804389893,84,0.0291554981135687

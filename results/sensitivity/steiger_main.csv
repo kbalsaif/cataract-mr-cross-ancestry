@@ -1,0 +1,9 @@
+"id.exposure","id.outcome","exposure","outcome","snp_r2.exposure","snp_r2.outcome","correct_causal_direction","steiger_pval"
+"ebi-a-GCST006867","bbj-a-94","Type 2 diabetes || id:ebi-a-GCST006867","Cataract || id:bbj-a-94",0.0330561813007661,0.00159149855988473,TRUE,0
+"ieu-b-40","bbj-a-94","body mass index || id:ieu-b-40","Cataract || id:bbj-a-94",0.0458925200775182,0.00504094168186832,TRUE,0
+"ebi-a-GCST006867","ukb-d-20002_1278","Type 2 diabetes || id:ebi-a-GCST006867","Non-cancer illness code, self-reported: cataract || id:ukb-d-20002_1278",0.0352508673691591,0.000413027638846138,TRUE,0
+"ieu-b-40","ukb-d-20002_1278","body mass index || id:ieu-b-40","Non-cancer illness code, self-reported: cataract || id:ukb-d-20002_1278",0.0479092649307965,0.0013979899242324,TRUE,0
+"ebi-a-GCST006867","finn-b-H7_CATARACTSENILE","Type 2 diabetes || id:ebi-a-GCST006867","Senile cataract || id:finn-b-H7_CATARACTSENILE",0.0350788529625043,0.00235110192244218,TRUE,0
+"ieu-b-40","finn-b-H7_CATARACTSENILE","body mass index || id:ieu-b-40","Senile cataract || id:finn-b-H7_CATARACTSENILE",0.047543358521562,0.00629647766718489,TRUE,0
+"ebi-a-GCST006867","ebi-a-GCST90018814","Type 2 diabetes || id:ebi-a-GCST006867","Cataracts || id:ebi-a-GCST90018814",0.0352508673691591,0.00119636417765366,TRUE,0
+"ieu-b-40","ebi-a-GCST90018814","body mass index || id:ieu-b-40","Cataracts || id:ebi-a-GCST90018814",0.0476394393471552,0.00268583470079214,TRUE,0

@@ -1,0 +1,17 @@
+# Rename this file to .gitignore (the build script does this for you)
+# Never commit credentials or R session files
+.Renviron
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+.DS_Store
+Thumbs.db
+# OpenGWAS metadata table (large, re-created by script 01)
+data/ao.rds
+# Manuscript files are not part of the code repository
+*.docx
+*.Rmd
+*.pdf
+!results/figures/*.pdf
+!results/sensitivity/plots/*.pdf

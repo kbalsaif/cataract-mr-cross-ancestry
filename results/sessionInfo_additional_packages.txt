@@ -1,0 +1,4 @@
+Packages loaded by scripts 02 and 09 (not shown in sessionInfo.txt, which script 01 wrote):
+MRPRESSO 1.0
+MVMR 0.4.8
+Recorded 14 October 2026 on the same computer as the analyses.

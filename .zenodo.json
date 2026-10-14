@@ -1,0 +1,12 @@
+{
+  "title": "Analysis code and data: Does the effect of type 2 diabetes and body mass index on cataract differ between East Asians and Europeans? A cross-ancestry Mendelian randomization study",
+  "description": "R scripts, harmonized SNP-level data, all method-specific two-sample Mendelian randomization estimates and session information for a cross-ancestry study of type 2 diabetes and body mass index on cataract in Biobank Japan, UK Biobank, FinnGen and a UK Biobank plus FinnGen meta-analysis, using summary statistics from the IEU OpenGWAS database.",
+  "creators": [
+    {"name": "Alsaif, Khalid", "affiliation": "College of Health Solutions, Arizona State University"},
+    {"name": "Chen, Zhongxue", "affiliation": "College of Health Solutions, Arizona State University"}
+  ],
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "keywords": ["Mendelian randomization", "cataract", "type 2 diabetes", "body mass index", "East Asian", "European", "cross-ancestry", "TwoSampleMR"]
+}

@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the Zenodo record and the associated manuscript."
+title: "Analysis code and data: Does the effect of type 2 diabetes and body mass index on cataract differ between East Asians and Europeans? A cross-ancestry Mendelian randomization study"
+type: software
+authors:
+  - family-names: Alsaif
+    given-names: Khalid
+    affiliation: "College of Health Solutions, Arizona State University"
+  - family-names: Chen
+    given-names: Zhongxue
+    affiliation: "College of Health Solutions, Arizona State University"
+version: "1.0.0"
+date-released: "2026-10-14"
+license: MIT
+keywords:
+  - Mendelian randomization
+  - cataract
+  - type 2 diabetes
+  - body mass index
+  - East Asian
+  - European
+  - cross-ancestry
+  - TwoSampleMR

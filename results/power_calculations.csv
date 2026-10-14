@@ -1,0 +1,41 @@
+"exposure","outcome","outcome_id","N","cases","K","R2_instruments","effect","beta_per_SD","power"
+"T2D","Biobank Japan","bbj-a-94",212453,24622,0.1159,0.0331,"OR 1.05 per log-odds",0.088,0.66
+"T2D","Biobank Japan","bbj-a-94",212453,24622,0.1159,0.0331,"OR 1.09 (FinnGen-size)",0.156,0.99
+"T2D","Biobank Japan","bbj-a-94",212453,24622,0.1159,0.0331,"OR 1.14 (BBJ-size)",0.238,1
+"T2D","Biobank Japan","bbj-a-94",212453,24622,0.1159,0.0331,"OR 1.20 per log-odds",0.331,1
+"T2D","Biobank Japan","bbj-a-94",212453,24622,0.1159,0.0331,"minimum detectable OR at 80% power",0.104,1.059
+"T2D","UKB self-report","ukb-d-20002_1278",361141,5045,0.014,0.0353,"OR 1.05 per log-odds",0.088,0.22
+"T2D","UKB self-report","ukb-d-20002_1278",361141,5045,0.014,0.0353,"OR 1.09 (FinnGen-size)",0.156,0.54
+"T2D","UKB self-report","ukb-d-20002_1278",361141,5045,0.014,0.0353,"OR 1.14 (BBJ-size)",0.238,0.88
+"T2D","UKB self-report","ukb-d-20002_1278",361141,5045,0.014,0.0353,"OR 1.20 per log-odds",0.331,0.99
+"T2D","UKB self-report","ukb-d-20002_1278",361141,5045,0.014,0.0353,"minimum detectable OR at 80% power",0.212,1.124
+"T2D","FinnGen R5","finn-b-H7_CATARACTSENILE",216362,26758,0.1237,0.0351,"OR 1.05 per log-odds",0.088,0.72
+"T2D","FinnGen R5","finn-b-H7_CATARACTSENILE",216362,26758,0.1237,0.0351,"OR 1.09 (FinnGen-size)",0.156,0.99
+"T2D","FinnGen R5","finn-b-H7_CATARACTSENILE",216362,26758,0.1237,0.0351,"OR 1.14 (BBJ-size)",0.238,1
+"T2D","FinnGen R5","finn-b-H7_CATARACTSENILE",216362,26758,0.1237,0.0351,"OR 1.20 per log-odds",0.331,1
+"T2D","FinnGen R5","finn-b-H7_CATARACTSENILE",216362,26758,0.1237,0.0351,"minimum detectable OR at 80% power",0.098,1.055
+"T2D","Sakaue 2021 EUR","ebi-a-GCST90018814",491877,39519,0.0803,0.0353,"OR 1.05 per log-odds",0.088,0.89
+"T2D","Sakaue 2021 EUR","ebi-a-GCST90018814",491877,39519,0.0803,0.0353,"OR 1.09 (FinnGen-size)",0.156,1
+"T2D","Sakaue 2021 EUR","ebi-a-GCST90018814",491877,39519,0.0803,0.0353,"OR 1.14 (BBJ-size)",0.238,1
+"T2D","Sakaue 2021 EUR","ebi-a-GCST90018814",491877,39519,0.0803,0.0353,"OR 1.20 per log-odds",0.331,1
+"T2D","Sakaue 2021 EUR","ebi-a-GCST90018814",491877,39519,0.0803,0.0353,"minimum detectable OR at 80% power",0.078,1.044
+"BMI","Biobank Japan","bbj-a-94",212453,24622,0.1159,0.0459,"OR 1.05 per SD",0.049,0.34
+"BMI","Biobank Japan","bbj-a-94",212453,24622,0.1159,0.0459,"OR 1.13 (FinnGen-size)",0.122,0.97
+"BMI","Biobank Japan","bbj-a-94",212453,24622,0.1159,0.0459,"OR 1.21 (BBJ-size)",0.191,1
+"BMI","Biobank Japan","bbj-a-94",212453,24622,0.1159,0.0459,"OR 1.30 per SD",0.262,1
+"BMI","Biobank Japan","bbj-a-94",212453,24622,0.1159,0.0459,"minimum detectable OR at 80% power",0.089,1.093
+"BMI","UKB self-report","ukb-d-20002_1278",361141,5045,0.014,0.0479,"OR 1.05 per SD",0.049,0.11
+"BMI","UKB self-report","ukb-d-20002_1278",361141,5045,0.014,0.0479,"OR 1.13 (FinnGen-size)",0.122,0.47
+"BMI","UKB self-report","ukb-d-20002_1278",361141,5045,0.014,0.0479,"OR 1.21 (BBJ-size)",0.191,0.84
+"BMI","UKB self-report","ukb-d-20002_1278",361141,5045,0.014,0.0479,"OR 1.30 per SD",0.262,0.98
+"BMI","UKB self-report","ukb-d-20002_1278",361141,5045,0.014,0.0479,"minimum detectable OR at 80% power",0.181,1.199
+"BMI","FinnGen R5","finn-b-H7_CATARACTSENILE",216362,26758,0.1237,0.0475,"OR 1.05 per SD",0.049,0.37
+"BMI","FinnGen R5","finn-b-H7_CATARACTSENILE",216362,26758,0.1237,0.0475,"OR 1.13 (FinnGen-size)",0.122,0.98
+"BMI","FinnGen R5","finn-b-H7_CATARACTSENILE",216362,26758,0.1237,0.0475,"OR 1.21 (BBJ-size)",0.191,1
+"BMI","FinnGen R5","finn-b-H7_CATARACTSENILE",216362,26758,0.1237,0.0475,"OR 1.30 per SD",0.262,1
+"BMI","FinnGen R5","finn-b-H7_CATARACTSENILE",216362,26758,0.1237,0.0475,"minimum detectable OR at 80% power",0.084,1.088
+"BMI","Sakaue 2021 EUR","ebi-a-GCST90018814",491877,39519,0.0803,0.0476,"OR 1.05 per SD",0.049,0.53
+"BMI","Sakaue 2021 EUR","ebi-a-GCST90018814",491877,39519,0.0803,0.0476,"OR 1.13 (FinnGen-size)",0.122,1
+"BMI","Sakaue 2021 EUR","ebi-a-GCST90018814",491877,39519,0.0803,0.0476,"OR 1.21 (BBJ-size)",0.191,1
+"BMI","Sakaue 2021 EUR","ebi-a-GCST90018814",491877,39519,0.0803,0.0476,"OR 1.30 per SD",0.262,1
+"BMI","Sakaue 2021 EUR","ebi-a-GCST90018814",491877,39519,0.0803,0.0476,"minimum detectable OR at 80% power",0.067,1.07
