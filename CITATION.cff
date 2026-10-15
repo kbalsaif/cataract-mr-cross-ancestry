@@ -9,7 +9,7 @@ authors:
   - family-names: Chen
     given-names: Zhongxue
     affiliation: "College of Health Solutions, Arizona State University"
-version: "1.0.0"
+version: "1.0.1"
 doi: 10.5281/zenodo.23381865
 date-released: "2026-10-14"
 license: MIT

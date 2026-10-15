@@ -43,6 +43,7 @@ results/     everything the scripts produce
   power_calculations.csv           power for each outcome (Burgess 2014 approximation)
   ukb_logodds_conversion.csv       UK Biobank linear-scale estimates converted to log-odds
   sessionInfo.txt                  R and package versions used
+  BST693_results_workbook_v2.xlsx  Excel summary compiled from the CSV files above
   sensitivity/                     MR-PRESSO, leave-one-out, single-SNP, Steiger, plots
   transferability/                 European instruments in East Asian exposure GWAS
   eas_arm_sensitivity/             like-for-like and East Asian-scale analyses
@@ -55,7 +56,7 @@ results/     everything the scripts produce
 
 | Script | What it does |
 |---|---|
-| 01_pipeline_all_methods_v2.R | Checks every dataset id against the OpenGWAS `ao` table, downloads instruments and outcome data, harmonizes, runs every method in mr_method_list() plus Cochran's Q and the Egger intercept, saves harmonized data and results |
+| 01_pipeline_all_methods.R | Checks every dataset id against the OpenGWAS `ao` table, downloads instruments and outcome data, harmonizes, runs every method in mr_method_list() plus Cochran's Q and the Egger intercept, saves harmonized data and results |
 | 02_sensitivity_main_pairs.R | MR-PRESSO, leave-one-out, single-SNP estimates, scatter, funnel and leave-one-out plots for the eight main pairs |
 | 03_steiger_direction.R | Steiger direction test, repeated over a grid of prevalence assumptions |
 | 04_cross_ancestry_test.R | Formal East Asian versus European comparison (z-test, Cochran's Q, I2) for every method with a usable standard error |
@@ -82,7 +83,7 @@ The manuscript follows the STROBE-MR reporting guideline; the completed checklis
 
 ## Software assistance
 
-Claude (Anthropic) was used to assist with the writing of the manuscript and with the development of the R code in this repository. The analyses were executed by the first author, who reviewed and verified the outputs and takes responsibility for their accuracy.
+Claude (Anthropic) was used to assist with the writing of the manuscript and with the development of the R code in this repository. The analyses were performed by the first author, who reviewed and verified the outputs and takes responsibility for their accuracy.
 
 ## Licence
 
