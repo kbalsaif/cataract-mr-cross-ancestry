@@ -43,7 +43,6 @@ results/     everything the scripts produce
   power_calculations.csv           power for each outcome (Burgess 2014 approximation)
   ukb_logodds_conversion.csv       UK Biobank linear-scale estimates converted to log-odds
   sessionInfo.txt                  R and package versions used
-  BST693_results_workbook_v2.xlsx  Excel summary compiled from the CSV files above
   sensitivity/                     MR-PRESSO, leave-one-out, single-SNP, Steiger, plots
   transferability/                 European instruments in East Asian exposure GWAS
   eas_arm_sensitivity/             like-for-like and East Asian-scale analyses
