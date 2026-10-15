@@ -2,7 +2,7 @@
 
 Khalid Alsaif and Zhongxue Chen, College of Health Solutions, Arizona State University.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23383154.svg)](https://doi.org/10.5281/zenodo.23383154)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23383274.svg)](https://doi.org/10.5281/zenodo.23383274)
 
 This repository holds the analysis code, the harmonized SNP-level data, every method-specific estimate and the R session information for the manuscript "Does the effect of type 2 diabetes and body mass index on cataract differ between East Asians and Europeans? A cross-ancestry Mendelian randomization study" (submitted to the International Journal of Epidemiology, 2026).
 
@@ -90,4 +90,4 @@ The code is released under the MIT licence (see LICENSE). The result tables and 
 
 ## How to cite
 
-Alsaif K, Chen Z. Analysis code and data for "Does the effect of type 2 diabetes and body mass index on cataract differ between East Asians and Europeans? A cross-ancestry Mendelian randomization study". Zenodo, 2026. https://doi.org/10.5281/zenodo.23383154
+Alsaif K, Chen Z. Analysis code and data for "Does the effect of type 2 diabetes and body mass index on cataract differ between East Asians and Europeans? A cross-ancestry Mendelian randomization study". Zenodo, 2026. https://doi.org/10.5281/zenodo.23383274
